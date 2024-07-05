@@ -48,6 +48,11 @@ Then restart rabbitmq-server service, then stop rabbitmq application using the c
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/3f1c3963-821c-44b6-8e86-bbd0bb53268c)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/4241368e-6efe-4aaf-a615-0598d241d39d)
 <br><br/>
+```
+Run below command on Node-1 to set the policy for High Availability (HA) in RabbitMQ Cluster.
+rabbitmqctl set_policy ha-all "" '{"ha-mode":"all","ha-sync-mode":"automatic"}'
+```
+<br><br/>
 Finally copy the DNS Name of the Application LoadBalancer of RabbitMQ and create the Record Set in hosted zone of Route 53. Access the URL and you will see the default console for RabbitMQ, you can use the initial username and password as guest and login into the RabbitMQ console.
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/135af4ac-9be6-42de-a735-141214254eed)
 
