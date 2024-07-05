@@ -131,10 +131,11 @@ When you click on the User for the first time it will get the values from MySQL 
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/4286d2b9-ec86-4ca8-88f8-291648c068b1)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/56cc5fae-9843-4fe0-83f5-2d649ed24596)
 <br><br/>
-After running the Jenkins Job the Screenshot for RabbitMQ, SonarQube and Nexus Artifactory is as shown in the Screenshot below.
+After running the Jenkins Job the Screenshot for RabbitMQ, SonarQube, Nexus Artifactory and ArgoCD is as shown in the Screenshot below.
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/d5cd5d3b-a84c-4aac-9f57-a5bfdc2ca327)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/30062e21-50b0-4526-929a-89bab7b8f1c7)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/e880ac0b-b379-413e-b892-76edcf6186cd)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/63694700-7400-4bcd-aa87-5c3739e5e4e9)
+![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-eks-RabbitMQ-Memcache-MySQL/assets/128888356/3059bb8e-736e-465f-87aa-b20ed4a6d327)
 
 
